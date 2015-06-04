@@ -64,6 +64,11 @@ If you want to add your own tags, you can simply deactivate this plugin temporar
 menambah tag buatan Anda sendiri. Jika Anda ingin menambah tag buatan Anda sendiri, Anda dapat menonaktifkan plugin ini
 untuk sementara, kemudian menambah tag dengan menggunakan widget yang disediakan oleh Wordpress.
 
+== Screenshots ==
+
+1. Example of tag suggestions which is given when the value of ρNA is 0.1 and selection of a tag suggestion to become post's tag. Contoh dari saran tag yang diberikan saat ρNA bernilai 0.1 dan pemilihan sebuah saran tag untuk menjadi tag dari post.
+2. Anchor dictionary import facility. Fasilitas impor anchor dictionary.
+
 == Changelog ==
 
 = 1.0 =
