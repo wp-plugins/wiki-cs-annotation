@@ -2,7 +2,7 @@
 /*
     Plugin Name: Wiki CS Annotation
     Plugin URI: http://apriliusplugin.comuv.com/
-    Version: 1.0
+    Version: 1.0.1
     Description: This plugin performs entity annotation by giving tag suggestions and creating links to Wikipedia.
     Author: William Aprilius
     Author URI: https://profiles.wordpress.org/william-aprilius
