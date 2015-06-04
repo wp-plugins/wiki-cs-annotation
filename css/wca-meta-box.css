@@ -1,0 +1,51 @@
+.wca_help{
+    cursor: help;
+    padding: 0px 3px;
+    margin-left: 6px;
+    background: #a1a1a1;
+    color: white;
+    font-size: 10px;
+    font-family: Courier;
+    font-weight: bold;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+}
+.wca_help:hover{background:#333333;}
+
+.wca_bold_text{font-weight: bold;}
+
+.wca_tag_container{min-height: 110px;}
+
+.wca_tag {
+    float: left;
+    padding: 2px 5px 6px 2px;
+    background: #e3f3f3;
+    font-size: 9pt;
+    color: black;
+    margin: 0 5px 5px 0;
+    cursor: pointer;
+    -webkit-border-radius:10px;
+    -moz-border-radius:10px;
+    border-radius:10px;
+}
+
+.wca_tag img {
+    position: relative;
+    top: 3px;
+}
+
+.wca_left_metabox{
+    width: 85%;
+    float:left;
+}
+
+.wca_right_metabox{
+    width: 10%;
+    float:right;
+    margin-right: 10px;
+}
+
+.wca_right_metabox p{
+    text-align: center;
+}

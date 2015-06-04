@@ -1,0 +1,50 @@
+.wca_help{
+    cursor: help;
+    padding: 0px 3px;
+    margin-left: 6px;
+    background: #a1a1a1;
+    color: white;
+    font-size: 10px;
+    font-family: Courier;
+    font-weight: bold;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+}
+.wca_help:hover{background: #333333;}
+
+.wca_settings_box{
+    width: 60%;
+    background-color: white;
+    padding: 5px;
+}
+.wca_settings_box h3{
+    cursor: default;
+    margin: 10px 5px;
+}
+.wca_settings_box table p{
+    margin: 0px;
+    padding: 0px;
+}
+
+.wca_width_100_percent{width: 100%;}
+.wca_width_45_percent{width: 45%;}
+
+.wca_right{float: right;}
+
+#wca_progress_bar{
+    margin-top: 10px;
+    padding: 2px;
+}
+
+.progress-label {
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    top: 9px;
+    text-shadow: 1px 1px 0 #fff;
+}
+
+.ui-progressbar {
+    position: relative;
+}
